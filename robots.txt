@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-13s4cs.koi888.sbs/sitemap.xml
